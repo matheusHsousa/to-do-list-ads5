@@ -1,0 +1,46 @@
+.contentLogo {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.cardsContainer {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: 30%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.card h3 {
+    margin: 0 0 10px;
+}
+
+.cepInputContainer {
+    text-align: center;
+    margin: 20px 0;
+    display: flex;
+}
+
+.cepInputContainer input {
+    padding: 15px;
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 10px, 0px 0px 10px;
+}
+
+.cepInputContainer button{
+    background-color: #f2c341;
+    border: 1px solid #ddd;
+    border-radius: 0px 10px 10px 0px ;
+}
+
+.mapContainer {
+    margin: 20px 0;
+}
