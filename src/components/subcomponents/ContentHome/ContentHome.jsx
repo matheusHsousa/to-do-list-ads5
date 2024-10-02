@@ -85,7 +85,7 @@ const ContentHome = () => {
     };
 
     return (
-        <section>
+        <section className='container'>
             <div className='contentLogo'>
                 <img src={logo} alt="Logo" />
             </div>

@@ -1,3 +1,9 @@
 .padding-300{
     padding: 0px 300px;
 }
+
+@media(max-width: 768px){
+    .padding-300{
+        padding: 0px 30px;
+    }
+}
